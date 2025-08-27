@@ -1,0 +1,6 @@
+1. The idea of the conceptual model, and the inferences of affordances, constraints, and mappings from these mentioned on Page 12 bring to mind a terrifying thought, that many will make an immediate judgement call. A potentially overall well designed product, can be misled by a terrible first impression, an inability to actually teach users how to interact with it. There are reasons why the first couple seconds of any media hold the hardest weight to get a hook into a user, it is a luxury to be releasing a product where you can expect users to take their time learning it.  
+     
+     
+2. “The modern telephone did not happen by accident: it was carefully designed. Someone—more likely a team of people—invented a list of features thought desirable, invented what seemed to them to be plausible ways of controlling the features, and then put it all together.”, a quote from Page 19 highlights an interesting of design, that one is fully capable of designing into a bad product with the wrong feedback. While we want to interpret all feedback as useful, the skill of being a tester is a 'skill' that can falter, leading even practiced designers astray in their paths. One must filter through their data, else your result becomes tainted by bad influences you allowed through.  
+     
+   
