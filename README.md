@@ -5,3 +5,5 @@
 [In-Class Data Vis Ex 1](exercises/InClass2/index.html)
 
 [Assignment 2 - New 2025 Car Model Showcase](exercises/dataVisualization/index.html)
+
+[Assignment 3 - Lichgame](exercises/Lichgame/index.html)
