@@ -480,7 +480,7 @@ function pointInRect(px, py, rx, ry, rw, rh) {
 }
 
 function resetGame() {
-  player[0].health = 10;
+  player[0].health = 8;
   player[0].x = 450;
   player[0].y = 250;
 
